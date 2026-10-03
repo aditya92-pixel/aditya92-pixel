@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello! This is Aditya Bagul 😁<br><br>A 3rd-year Computer Science diploma holder, and my passion is developing practical applications and learning new technologies by applying them. Problem solving is something that I like doing, and I am looking forward to a career in the field of software development.<br><br>🔨 Stuff I am making<br><br>SafeHer: an Android application for women's safety with shake or press of a button SOS feature, live high precision GPS tracking and automatic SMS notification to the emergency contacts. I am currently adding OTP email authentication and location sharing via Telegram and Discord.<br><br>🛠️ Technologies I use<br><br>React, JavaScript, HTML, CSS<br>Capacitor & Android Studio<br>Git & GitHub<br><br>🎮 Outside programming<br><br>Big gamer, this keeps me sharp and helps with team spirit and decision making skills.<br>I also have knowledge about the computer hardware; troubleshooting, up-gradation and how everything works inside the machine.
 
 
